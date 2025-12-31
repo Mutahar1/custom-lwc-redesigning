@@ -127,9 +127,9 @@ public static List<RenewalWrapper> getRenewals(FilterCriteria filters) {
 ## 🔗 Related Projects
 
 Check out my other Salesforce solutions:
-- [AI-Powered Case Summary](../ai-case-summary) - Einstein AI integration
-- [Payment Gateway Integration](../payment-gateway-integration) - Secure transactions in Salesforce
-- [Contractor Management System](../contractor-management-system) - Similar LWC architecture
+- [AI-Powered Case Summary](https://github.com/Mutahar1/agentforce-ai-case-summary) - Einstein AI integration
+- [Payment Gateway Integration](https://github.com/Mutahar1/payment-gateway-integration) - Secure transactions in Salesforce
+- [Contractor Management System](https://github.com/Mutahar1/contractor-management-system) - Similar LWC architecture
 
 ---
 
